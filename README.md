@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="https://media-exp1.licdn.com/dms/image/C4D16AQG6y9O6g4vaNw/profile-displaybackgroundimage-shrink_200_800/0/1653314466297?e=1658966400&v=beta&t=Mh07TYYIaD6SzLjRt8d0xismpMNfI9FgJDYmpk2qAn8" alt="martinvioli" /><p>
+<p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" /><p>
 
 <h1 align="center">Hi 👋, I'm Alejandro Tomasella.</h1>
 <h3 align="center">JavaScript Full Stack Developer! 💛</h3>
@@ -7,11 +7,12 @@
 
 - 🌱 I’m currently learning **React-Native and Tailwind**
 
-- 👨‍💻 All of my projects are available at 
-
 - 📫 How to reach me **aletomasella09@gmail.com**
 
-- 📄 Know about my experiences
+- 👨‍💻 My proyects
+
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
