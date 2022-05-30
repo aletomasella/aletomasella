@@ -15,16 +15,27 @@
 
     Worked as Full Stack developer and founder in the Bragi project, a Social Media designed to connect artists and fans across the world.
 
-Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, there is also the functionality of being able to search for the most recognized artists, as well as their albums and songs, along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users 
+Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, search for the most recognized artists as well as their albums and songs along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users 
 
 Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
 
 For more information visit the website of Bragi:
 
 
-<a href="bragi-nine.vercel.app" target="blank"><img src="https://i.imgur.com/4UBgUvv.png" alt="Bragi" height="30" width="40"/></a>
+<a href="https://bragi-nine.vercel.app/" target="blank"><img src="https://i.imgur.com/4UBgUvv.png" alt="https://bragi-nine.vercel.app" height="50" width="50"/></a>
 
 <br/>
+
+<h3><mark>&nbsp;Videogames API&nbsp;</mark></h3>
+A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres, platforms and if the game was created by yourself or brought by the API.
+You can create your own game, put a description of it, rating, image, etc. and you access to the details of the games.
+
+    <a><img src="https://github.com/MatiFitti/matifitti/blob/main/images/Landing.jpg" alt="Videogame App"></a>
+    <a><img src="https://github.com/MatiFitti/matifitti/blob/main/images/Home.jpg" alt="Videogame App"></a>
+
+Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
+
+<br/><br/>
 
 
 
