@@ -10,6 +10,23 @@
 - 📫 How to reach me **aletomasella09@gmail.com**
 
 - 👨‍💻 My proyects
+- <br/>
+- 
+- <h2><mark>&nbsp;Bragi&nbsp;</mark></h2>
+
+<h3>
+    Worked as Full Stack developer and founder in the Bragi project, a Social Media designed to connect artists and fans across the world.
+
+Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, there is also the functionality of being able to search for the most recognized artists, as well as their albums and songs, along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users 
+
+Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
+
+For more information visit the website of Bragi:
+</h3>
+
+<a href="bragi-nine.vercel.app"><img src="https://i.imgur.com/4UBgUvv.png" alt="Bragi"/></a>
+
+<br/>
 
 
 
