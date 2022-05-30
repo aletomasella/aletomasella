@@ -30,8 +30,7 @@ For more information visit the website of Bragi:
 A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres, platforms and if the game was created by yourself or brought by the API.
 You can create your own game, put a description of it, rating, image, etc. and you access to the details of the games.
 <p>
-    <a><img src="" alt="Videogame App"></a>
-    <a><img src="" alt="Videogame App"></a>
+    <a><img src="https://github.com/aletomasella/aletomasella/blob/main/images/landing.png" alt="Videogame App"></a>
 </p>
 Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
 
