@@ -3,19 +3,19 @@
 <h1 align="center">Hi 👋, I'm Alejandro Tomasella.</h1>
 <h3 align="center">JavaScript Full Stack Developer! 💛</h3>
 
-- 🙍‍♂️ I am an active person who constantly seeks to improve, always looking for challenges and innovative experiences.
+- 🙍‍♂️ I am an active person who constantly seeks for improvement, and is always looking for challenges and innovative experiences.
 
 - 🌱 I’m currently learning **React-Native and Tailwind**
 
 - 📫 How to reach me **aletomasella09@gmail.com**
 
-- 👨‍💻 My proyects
+- 👨‍💻 My projects
 - <h3><mark>&nbsp;Bragi&nbsp;</mark></h3>
 
 
-    Worked as Full Stack developer and founder in the Bragi project, a Social Media designed to connect artists and fans across the world.
+    Worked as Full Stack developer and one of the founders of the Bragi project, a Social Media designed to connect artists and fans across the world.
 
-Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, search for the most recognized artists as well as their albums and songs along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users 
+Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, search for the most recognized artists as well as their albums and songs along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users. 
 
 Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
 
@@ -26,9 +26,9 @@ For more information visit the website of Bragi:
 
 <br/>
 
-<h3><mark>&nbsp;Videogames API&nbsp;</mark></h3>
-A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres, platforms and if the game was created by yourself or brought by the API.
-You can create your own game, put a description of it, rating, image, etc. and you access to the details of the games.
+<h3><mark>&nbsp;Videogames APP&nbsp;</mark></h3>
+A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres, platforms and distinguish whether the game was created by yourself or brought by the API.
+You can create your own game, put a description of it, rating, image, etc. and if you want more information of your game, you have access the details of the game.
 <p>
     <a><img src="https://github.com/aletomasella/aletomasella/blob/main/Images/landing.png" alt="Videogame App"></a>
 </p>
