@@ -5,7 +5,7 @@
 
 - 🙍‍♂️ I am an active person who constantly seeks for improvement, and is always looking for challenges and innovative experiences.
 
-- 🌱 I’m currently learning **React-Native and Tailwind**
+- 🌱 I’m currently learning **Python and Django**
 
 - 📫 How to reach me **aletomasella09@gmail.com**
 
