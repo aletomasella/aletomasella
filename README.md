@@ -1,11 +1,11 @@
 <p align="center"><img align="center" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="gif" /><p>
 
 <h1 align="center">Hi 👋, I'm Alejandro Tomasella.</h1>
-<h3 align="center">JavaScript Full Stack Developer! 💛</h3>
+<h3 align="center">JavaScript/TypeScript Full Stack Developer! 💛💙</h3>
 
 - 🙍‍♂️ I am an active person who constantly seeks for improvement, and is always looking for challenges and innovative experiences.
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **Rust and Go**
 
 - 📫 How to reach me **aletomasella09@gmail.com**
 
