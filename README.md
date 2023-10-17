@@ -5,38 +5,11 @@
 
 - 🙍‍♂️ I am an active person who constantly seeks for improvement, and is always looking for challenges and innovative experiences.
 
-- 🌱 I’m currently learning **Rust and Go**
+- 🌱 I’m currently learning **Go**
 
 - 📫 How to reach me **aletomasella09@gmail.com**
 
-- 👨‍💻 My projects
-- <h3><mark>&nbsp;Bragi&nbsp;</mark></h3>
-
-
-    Worked as Full Stack developer and one of the founders of the Bragi project, a Social Media designed to connect artists and fans across the world.
-
-Bragi is a social network focused on bringing an artist closer to their fans, being able to share posts, search for the most recognized artists as well as their albums and songs along with the possibility of being able to see the top 10 songs, albums and artists of the moment. Users can follow both their favorite artists and other users. 
-
-Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
-
-For more information visit the website of Bragi:
-
-
-<a href="https://bragi-nine.vercel.app/" target="blank"><img src="https://i.imgur.com/4UBgUvv.png" alt="https://bragi-nine.vercel.app"/></a>
-
-<br/>
-
-<h3><mark>&nbsp;Videogames APP&nbsp;</mark></h3>
-A page that allows to search for videogames info, brought through <a href="https://rawg.io/apidocs">RAWG API</a>, you can sort them alphabetically, by genres, platforms and distinguish whether the game was created by yourself or brought by the API.
-You can create your own game, put a description of it, rating, image, etc. and if you want more information of your game, you have access the details of the game.
-<p>
-    <a><img src="https://github.com/aletomasella/aletomasella/blob/main/Images/landing.png" alt="Videogame App"></a>
-</p>
-Technologies used: Javascript/ ReactJs/ NodeJs/ Sequelize/ SQL
-
 <br/><br/>
-
-
 
 
 <h3 align="center">Connect with me:</h3>
